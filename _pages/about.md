@@ -47,4 +47,4 @@ I am currently pursuing a master's degree in Computer Science at SZU/SZTU under 
 - [Bowen Zhang](https://scholar.google.com/citations?hl=en&user=2O1BOpEAAAAJ), Associate Professor at Shenzhen Technology University
 
 
-<img class="svg" src="/images/hit_logo.jpeg" width="77pt"> <img class="svg" src="/images/hkbu_logo.png" width="105pt"> <img class="svg" src="/images/sztu_logo.png" width="50pt"> <img class="svg" src="/images/jd_logo.webp" width="73pt">
+<img class="svg" src="/images/hit_logo.jpeg" width="77pt"> <img class="svg" src="/images/sztu_logo.png" width="50pt"> 

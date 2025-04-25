@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Zitao Guo (郭梓涛)"
 description              : "" 
-repository               : "https://townseven.github.io/MyPage/"
+repository               : "townseven/MyPage"
 google_scholar_stats_use_cdn : false
 
 # google analytics
