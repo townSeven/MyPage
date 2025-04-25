@@ -44,7 +44,7 @@ I am currently pursuing a master's degree in Computer Science at SZU/SZTU under 
 - xxx, xxx, `Zitao GUO`📧. xxx: xxxxx. In ICASSP, 2023.  <a href="https://ieeexplore.ieee.org/abstract/document/10097031"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a> <a href="https://github.com/xuguangning1218/IntGNN_ICASSP2023"><i style="font-size: 20px;" class="fab fa-fw fa-github"></i></a>
 
 # 🤝 Collaborators
-- [Bowen Zhang](https://scholar.google.com/citations?hl=en&user=2O1BOpEAAAAJ), Associate Professor at Shenzhen Technology University
+- [Bowen Zhang](https://scholar.google.com/citations?hl=en&user=2O1BOpEAAAAJ), Professor at Shenzhen Technology University
 
 
-<img class="svg" src="/images/hit_logo.jpeg" width="77pt"> <img class="svg" src="/images/sztu_logo.png" width="50pt"> 
+<img class="svg" src="/images/hit_logo.jpeg" width="77pt"> <img class="svg" src="/images/SZU_logo.png" width="60pt"> <img class="svg" src="/images/sztu_logo.png" width="50pt"> 
