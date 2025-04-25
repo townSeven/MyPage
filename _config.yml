@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhichao Huang (黄智超)"
+title                    : "Zitao Guo (郭梓涛)"
 description              : "" 
-repository               : "iceshzc/iceshzc.github.io"
+repository               : "https://townseven.github.io/MyPage/"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,16 +21,16 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhichao Huang"
-  avatar           : "images/photo.png"
-  bio              : "Algorithmic Engineer at JD.com, Inc. Foucsing on GNNs, KGs and LLMs."
-  location         : "Beijing, China"
+  name             : "Zitao Guo"
+  avatar           : "images/photo.jpg"
+  bio              : "Master in CS at SZU/SZTU. Foucsing on Spatio-Temporal prediction, GNNs, LLMs."
+  location         : "ShenZhen, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oG8Kx-oAAAAJ"
   dblp             : "https://dblp.org/pid/153/7931-1.html"
-  researchgate     : "https://www.researchgate.net/profile/Zhichao-Huang"
-  email            : "zhichao@cshzc.top"
+  researchgate     : "-"
+  email            : "gzt1277@163.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  # github           : "iceshzc"
+  # github           : "townSeven"
   google_plus      :
   keybase          :
   instagram        :
