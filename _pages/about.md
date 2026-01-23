@@ -16,7 +16,7 @@ I am currently pursuing a master's degree in Computer Science at SZU/SZTU under 
 # 🔥 News
 <div style="height: 150px; overflow-y: scroll;">
   <div styple="padding-left: 1em;">
-    <p>• <em>2026.01</em>, 🎉 One paper was accepted to ICASSP'2026!</p>
+    <p>• <em>2026.01</em>, 🎉 One paper was accepted to ICASSP'2026 (CCF-B)!</p>
   </div>
 </div>
 
@@ -29,7 +29,7 @@ I am currently pursuing a master's degree in Computer Science at SZU/SZTU under 
 </div> -->
 
 # 📝 Selected Publications
-- `Zitao GUO`, Changyang Jiang, Tianhong Zhao, Jinzhou Cao, Genan Dai📧, Bowen Zhang📧. TOPT: TASK-ORIENTED PROMPT TUNING FOR URBAN REGION REPRESENTATION LEARNING. In ICASSP, 2026.  
+- `Zitao GUO`, Changyang Jiang, Tianhong Zhao, Jinzhou Cao, Genan Dai📧, Bowen Zhang📧. TOPT: TASK-ORIENTED PROMPT TUNING FOR URBAN REGION REPRESENTATION LEARNING. In ICASSP, 2026 (CCF-B).  
 <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10097031"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a> <a href="https://github.com/xuguangning1218/IntGNN_ICASSP2023"><i style="font-size: 20px;" class="fab fa-fw fa-github"></i></a> -->
 
 <!-- - `Zitao GUO`. xxx: xxxxx. In IJCAI, pages 1258–1264, 2020. <a href="https://www.ijcai.org/proceedings/2020/175"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a> <a href="https://github.com/iceshzc/MR-GCN-DENSE"><i style="font-size: 20px;" class="fab fa-fw fa-github"></i></a>
