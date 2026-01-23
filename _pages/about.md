@@ -20,13 +20,13 @@ I am currently pursuing a master's degree in Computer Science at SZU/SZTU under 
   </div>
 </div>
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 <div style="height: 150px; overflow-y: scroll;">
   <div style="padding-left: 1em;">
-    <!-- <p>• <em>2024.07</em>, ACM A.M. Turing Award</p> -->
-    <!-- <p>• <em>2023.12</em>, ​​IEEE John von Neumann Medal</p> -->
+    <p>• <em>2024.07</em>, ACM A.M. Turing Award</p>
+    <p>• <em>2023.12</em>, ​​IEEE John von Neumann Medal</p>
   </div>
-</div>
+</div> -->
 
 # 📝 Selected Publications
 - `Zitao GUO`, Changyang Jiang, Tianhong Zhao, Jinzhou Cao, Genan Dai📧, Bowen Zhang📧. TOPT: TASK-ORIENTED PROMPT TUNING FOR URBAN REGION REPRESENTATION LEARNING. In ICASSP, 2026.  
