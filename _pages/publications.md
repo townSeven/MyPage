@@ -9,7 +9,10 @@ permalink: /publications
 
 # 📝 Publications 
 
-## 2025
+## 2026
+- `Zitao GUO`, Changyang Jiang, Tianhong Zhao, Jinzhou Cao, Genan Dai📧, Bowen Zhang📧. TOPT: TASK-ORIENTED PROMPT TUNING FOR URBAN REGION REPRESENTATION LEARNING. In ICASSP, 2026.
+
+<!-- ## 2025
 - Bowen Zhang, `Zhichao Huang`, Guangning Xu, Xiaomao Fan, Mingyan Xiao, Genan Dai, Hu Huang. Core Knowledge Learning Framework for Graph Adaptation and Scalability Learning. In AAAI, 2025.  <a href="https://arxiv.org/abs/2407.01886"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a> **oral paper**
 
 ## 2024
@@ -58,6 +61,6 @@ image categorization via heterogeneous domain adaptation. Knowledge-Based System
 - `Zhichao Huang`, Yunming Ye, Xutao Li, Feng Liu, and Huajie Chen. Joint weighted nonnegative matrix factorization for mining attributed graphs. In PAKDD 2017, pages 368–380, 2017. <a href="https://link.springer.com/chapter/10.1007/978-3-319-57454-7_29"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a> 
 
 - Yuan Yao, Yan Li, Ke Wang, `Zhichao Huang`, and Yunming Ye. A semi-supervised clustering method
-through bottleneck distance exploration. In ICSS, pages 115–121, 2016. <a href="https://ieeexplore.ieee.org/abstract/document/8057402"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a> 
+through bottleneck distance exploration. In ICSS, pages 115–121, 2016. <a href="https://ieeexplore.ieee.org/abstract/document/8057402"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a>  -->
 
 

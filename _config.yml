@@ -23,14 +23,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zitao Guo"
   avatar           : "images/photo.jpg"
-  bio              : "Master in CS at SZU/SZTU. Foucsing on Spatio-Temporal prediction, GNNs, LLMs."
+  bio              : "Master in CS at SZU/SZTU. Foucsing on Urban Region Representation Learning, GNNs, MLLMs."
   location         : "ShenZhen, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/"
   dblp             : "-"
   researchgate     : "-"
-  email            : "gzt1277@163.com"
+  email            : "zitao_guo@outlook.com"
   uri              : 
   bitbucket        :
   codepen          :
