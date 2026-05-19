@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zitao Guo"
-  avatar           : "images/photo.jpg"
+  avatar           : "images/jiaotangshan.jpg"
   bio              : "Master in CS at SZU/SZTU. Foucsing on Urban Region Representation Learning, GNNs, MLLMs."
   location         : "ShenZhen, China"
   employer         : 
