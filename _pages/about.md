@@ -16,6 +16,7 @@ I am currently pursuing a master's degree in Computer Science at SZU/SZTU under 
 # 🔥 News
 <div style="height: 150px; overflow-y: scroll;">
   <div styple="padding-left: 1em;">
+    <p>• <em>2026.03</em>, 🎉 One paper was accepted to UrbanScience'2026 (JCR Q1)!</p>
     <p>• <em>2026.01</em>, 🎉 One paper was accepted to ICASSP'2026 (CCF-B)!</p>
   </div>
 </div>
@@ -30,7 +31,10 @@ I am currently pursuing a master's degree in Computer Science at SZU/SZTU under 
 
 # 📝 Selected Publications
 - `Zitao GUO`, Changyang Jiang, Tianhong Zhao, Jinzhou Cao, Genan Dai📧, Bowen Zhang📧. TOPT: TASK-ORIENTED PROMPT TUNING FOR URBAN REGION REPRESENTATION LEARNING. In ICASSP, 2026 (CCF-B).  
-<!-- <a href="https://ieeexplore.ieee.org/abstract/document/10097031"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a> <a href="https://github.com/xuguangning1218/IntGNN_ICASSP2023"><i style="font-size: 20px;" class="fab fa-fw fa-github"></i></a> -->
+<a href="https://arxiv.org/pdf/2602.01610"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a> <a href="https://github.com/townSeven/Prompt4RE"><i style="font-size: 20px;" class="fab fa-fw fa-github"></i></a>
+
+- Genan Dai†, `Zitao Guo`†, Bowen Zhang, Xianghua Fu, Li Dong, Jinzhou Cao📧, Hu Huang📧. RE-SAT: Spatial-Aware Transformers with Semantic-Guided Prompting for Urban Region Embedding. In UrbanScience, 2026 (JCR Q1).
+<a href="https://www.mdpi.com/2413-8851/10/3/168"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a>
 
 <!-- - `Zitao GUO`. xxx: xxxxx. In IJCAI, pages 1258–1264, 2020. <a href="https://www.ijcai.org/proceedings/2020/175"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a> <a href="https://github.com/iceshzc/MR-GCN-DENSE"><i style="font-size: 20px;" class="fab fa-fw fa-github"></i></a>
 

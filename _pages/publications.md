@@ -10,7 +10,11 @@ permalink: /publications
 # 📝 Publications 
 
 ## 2026
-- `Zitao GUO`, Changyang Jiang, Tianhong Zhao, Jinzhou Cao, Genan Dai📧, Bowen Zhang📧. TOPT: TASK-ORIENTED PROMPT TUNING FOR URBAN REGION REPRESENTATION LEARNING. In ICASSP, 2026.
+- `Zitao GUO`, Changyang Jiang, Tianhong Zhao, Jinzhou Cao, Genan Dai📧, Bowen Zhang📧. TOPT: TASK-ORIENTED PROMPT TUNING FOR URBAN REGION REPRESENTATION LEARNING. In ICASSP, 2026 (CCF-B).  
+<a href="https://arxiv.org/pdf/2602.01610"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a> <a href="https://github.com/townSeven/Prompt4RE"><i style="font-size: 20px;" class="fab fa-fw fa-github"></i></a>
+
+- Genan Dai†, `Zitao Guo`†, Bowen Zhang, Xianghua Fu, Li Dong, Jinzhou Cao📧, Hu Huang📧. RE-SAT: Spatial-Aware Transformers with Semantic-Guided Prompting for Urban Region Embedding. In UrbanScience, 2026 (JCR Q1).
+<a href="https://www.mdpi.com/2413-8851/10/3/168"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a>
 
 <!-- ## 2025
 - Bowen Zhang, `Zhichao Huang`, Guangning Xu, Xiaomao Fan, Mingyan Xiao, Genan Dai, Hu Huang. Core Knowledge Learning Framework for Graph Adaptation and Scalability Learning. In AAAI, 2025.  <a href="https://arxiv.org/abs/2407.01886"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a> **oral paper**
